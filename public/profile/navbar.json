@@ -1,0 +1,33 @@
+{
+    "logo" : {
+        "source": "images/Logo2.mp4"
+    },
+    "sections": [
+        {
+            "title": "Home",
+            "href": "/"
+        },
+        {
+            "title": "Skills",
+            "href": "/skills"
+        },
+        {
+            "title": "Education",
+            "href": "/education"
+        },
+        {
+            "title": "Projects",
+            "href": "/projects"
+        },
+        {
+            "title": "About",
+            "href": "/about"
+        },
+        {
+            "title": "Resume",
+            "href": "https://drive.google.com/file/d/128C0mqC2W-SvPpwIWnfRkXrQvOCYuSxR/view?usp=share_link",
+            "type": "link"
+        }
+    ]
+
+}

@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/anthony-toner-35a942199/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/AToner25"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:anthonytoner25@gmail.com"
+        }
+    ]
+}
