@@ -1,15 +1,13 @@
 {
     "education":[
         {
-            "title": "Jun 2019 - Jun 2024",
             "cardTitle": "Technical DEC, Computer Science",
-            "cardSubtitle":"Champlain College St-Lambert, Longueil"
+            "cardSubtitle":"Champlain College St-Lambert, Longueil \n (August 2019 - 2024)"
 
         },
         {
-            "title": "June 2017",
             "cardTitle": "High School",
-            "cardSubtitle":"Lester B. Pearson, Montreal"
+            "cardSubtitle":"Lester B. Pearson, Montreal  \n (June 2017)"
            
         }
     ]

@@ -39,19 +39,19 @@
             ]
         },
         {
-            "title": "???",
-            "bodyText": "- ??? . \n - ??? .\n - ???.",
+            "title": "My Portfolio",
+            "bodyText": "- Website developed using React, CSS and HTML. \n - A simple clean design that represents me. \n - It is deployed using Vercel so that it can be up to date when I make changes to it",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/QuietHours-Android"
+                    "href": "https://github.com/AToner25/MyPortfolio.git"
                 }
             ],
             "tags" : [
-                "Java",
-                "Android",
-                "Alarm Manager",
-                "VIT"
+                "React",
+                "CSS",
+                "HTML",
+                "Vercel"
             ]
         }
         
