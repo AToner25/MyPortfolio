@@ -1,0 +1,15 @@
+{
+  "short_name": "Anthony Toner",
+  "name": "Anthony Toner - Portfolio",
+  "icons": [
+    {
+      "src": "images/Logo2.mp4",
+      "type": "image/mp4",
+      "sizes": "425x225"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
