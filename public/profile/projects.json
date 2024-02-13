@@ -21,11 +21,11 @@
         },
         {
             "title": "Halal Bites",
-            "bodyText": "- Website/microservice based system for halal/kosher restaurants owners to easily have clients go to one location to find them. \n - ",
+            "bodyText": "- Website/microservice based system for halal/kosher restaurants owners to easily have clients go to one location to find them. \n - We were in constant contact with our product owner for this project, who told us exactly what he wanted it to do and look like. \n - The responsiblity of our tasks were seperated in a variety of ways during this project. Each memeber of the team had to have done a full stack story by the end of each sprint during development.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Caaring"
+                    "href": "https://github.com/Nmazza1/HalalbitesBackend.git"
                 }
             ],
             "tags" : [
@@ -40,7 +40,7 @@
         },
         {
             "title": "My Portfolio",
-            "bodyText": "- Website developed using React, CSS and HTML. \n - A simple clean design that represents me. \n - It is deployed using Vercel so that it can be up to date when I make changes to it",
+            "bodyText": "- Website based application focus on front-end, developed using React, CSS and HTML. \n - A minimalist design that best represents me, and the beginning of my journey in the industry. \n - The concept behind my design is that as I grow in the industry so will my portfolio, this will be a on going project of mine.",
             "links": [
                 {
                     "text": "GitHub",
