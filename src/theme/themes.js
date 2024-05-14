@@ -30,7 +30,7 @@ export const darkTheme = {
     cardForeColor: 'white',
     titleColor: 'white',
   },
-  timelineLineColor: 'red',
+  timelineLineColor: 'white',
   cardBackground: '#060606',
   cardFooterBackground: '#181818',
   cardBorderColor: '#ffffff20',

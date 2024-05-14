@@ -185,5 +185,6 @@ section.timeline-card-content div.card-description > p {
 .rounded-image {
   border-radius: 20%;
   border: 5px solid #000;
-  
+  width: '100%'; 
+  height: 'auto';
 }
