@@ -181,3 +181,9 @@ section.timeline-card-content div.card-description > p {
       padding: 10px 0; /* Add padding for better appearance */
       text-align: center;
 }
+
+.rounded-image {
+  border-radius: 20%;
+  border: 5px solid #000;
+  
+}

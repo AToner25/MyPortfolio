@@ -21,7 +21,6 @@ const styles = {
     justifyContent: 'center',
     alignItems: 'center',
     display: 'flex',
-    
   },
 };
 
@@ -58,7 +57,7 @@ function About(props) {
                   </Col>
                   <Col style={styles.introImageContainer}>
                     
-                    <img src={data?.imageSource} alt="profile" />
+                    <img src={data?.imageSource} alt="profile" className="rounded-image"/>
                   </Col>
                 </Row>
               </Fade>
