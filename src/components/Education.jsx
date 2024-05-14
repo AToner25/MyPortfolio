@@ -9,9 +9,8 @@ import Header from './Header';
 import FallbackSpinner from './FallbackSpinner';
 import '../css/education.css';
 
-function Education(props) {
+function Education() {
   const theme = useContext(ThemeContext);
-  const { header } = props;
   const [data, setData] = useState(null);
   const [width, setWidth] = useState('50vw');
   const [mode, setMode] = useState('VERTICAL_ALTERNATING');
@@ -41,7 +40,7 @@ function Education(props) {
 
   return (
     <>
-      <Header title={header} />
+      <Header title={"Education & Experience"} />
       {data ? (
         <Fade>
           <div style={{ width }} className="section-content-container">

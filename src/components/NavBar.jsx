@@ -7,8 +7,9 @@ import endpoints from '../constants/endpoints';
 
 const styles = {
   logoStyle: {
-    width: 110,
-    height: 90,
+    width: 150,
+    height: 100,
+    borderRadius: '20%',
   },
 };
 
