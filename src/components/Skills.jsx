@@ -44,7 +44,7 @@ function Skills(props) {
       {data ? (
         <Fade>
           <div className="section-content-container">
-            <Container>
+            <Container className="black-container">
               {renderSkillsIntro(data.intro)}
               {data.skills?.map((rows) => (
                 <div key={rows.title}>

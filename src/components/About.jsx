@@ -53,7 +53,7 @@ function About(props) {
             ? (
               <Fade>
                 <Row>
-                  <Col style={styles.introTextContainer}>
+                  <Col style={styles.introTextContainer} className="black-container">
                     {parseIntro(data.about)}
                   </Col>
                   <Col style={styles.introImageContainer}>
