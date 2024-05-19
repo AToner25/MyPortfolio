@@ -76,6 +76,7 @@ const NavBar = () => {
         <Navbar.Toggle
           aria-controls="responsive-navbar-nav"
           onClick={() => setExpanded(!expanded)}
+          className='custom-toggler'
         />
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="me-auto" />
